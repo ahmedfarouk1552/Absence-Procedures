@@ -1,0 +1,32 @@
+﻿@using System.Security.Claims
+
+@model List<TrainProject.Models.UserRole>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_layout_3.cshtml";
+}
+@if (User.Claims.SingleOrDefault(n => n.Type == ClaimTypes.Role).Value == "1")
+{
+    <h1>Index for Admin</h1>
+
+<table class="table" border="1" style="color:white">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.UserRolesId</td>
+            <td>@item.RoleName</td>
+
+
+
+        </tr>
+    }
+</table>
+}
+else {<h1>ccccccc</h1> }

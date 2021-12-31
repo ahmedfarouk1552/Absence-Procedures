@@ -1,0 +1,58 @@
+﻿
+@model TrainProject.Models.User
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_layout_3.cshtml";
+}
+
+
+
+
+
+<section style="height:800px;" class="section coming-soon" data-section="section3">
+
+    @*<img src="~/Content/assets/images/main-slider-02.jpg" />*@
+    <div class="caption" style="text-align: center">
+        <h2 style="color:#fff;font-size:30px;font-weight:bold">Login</h2>
+        <form id="contact" action="" method="post" style="width:400px;margin:auto auto">
+            <div class="row">
+
+
+                <div class="col-md-12">
+                    <fieldset>
+                        @*<input name="email" type="text" class="form-control" id="email" placeholder="Your Email" required="">*@
+                        <input type="text" asp-for="Email" class="form-control" id="email" placeholder="Your Email" required="" />
+                        <span asp-validation-for="Email"></span>
+
+                    </fieldset>
+                </div>
+
+
+
+
+                <div class="col-md-12">
+                    <fieldset>
+                        @*<input name="password" type="text" class="form-control" id="password" placeholder="Your Password" required="">*@
+                        <input type="password" asp-for="Password" class="form-control" id="password" placeholder="Your password" required="" />
+                        <span asp-validation-for="Password"></span>
+
+                    </fieldset>
+                </div>
+
+
+                <div class="col-md-12 d-flex justify-content-center">
+                   
+                    <input type="checkbox" id="rememb" class="rememb" name="rememb" style="width:20px;" /> <span style="margin:5px; color:white">Remember Me</span>
+
+                </div>
+
+
+                <div class="col-md-12">
+                    <fieldset>
+                        <button class="button" id="-submit" type="submit">Login</button>
+                    </fieldset>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>

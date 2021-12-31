@@ -1,0 +1,29 @@
+﻿@model List<TrainProject.Models.User>
+@using System.Security.Claims;
+
+@{
+    ViewData["Title"] = "ITIPROJ";
+    Layout = "~/Views/Shared/_layout_2.cshtml";
+}
+@*1="admin" 2="normal"
+@User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role).Value.ToLower()=="1"*@
+
+<table class="table" border="1" style="color:white">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Email</th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Email</td>
+
+
+        </tr>
+    }
+</table>

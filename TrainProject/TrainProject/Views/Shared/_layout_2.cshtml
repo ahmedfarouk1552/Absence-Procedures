@@ -1,0 +1,583 @@
+﻿@using System.Security.Claims;
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap-grid.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap-reboot.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
+    <title> @ViewData["Title"]</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="~/Content/assets/css/fontawesome.css">
+    <link rel="stylesheet" href="~/Content/assets/css/templatemo-grad-school.css">
+    <link rel="stylesheet" href="~/Content/assets/css/owl.css">
+    <link rel="stylesheet" href="~/Content/assets/css/lightbox.css">
+    
+      
+   
+</head>
+<style>
+    .myArticle img {
+        transition:all 4s ease-in-out;
+    }
+    .myArticle img:hover{
+        transform:scale(1.2);
+    }
+</style>
+<body>
+
+
+    <!--header-->
+    <header class="main-header clearfix" role="rowheader">
+        <div class="logo">
+            @*<a href="#"><em>ITI</em> Munofia</a>*@
+            <a href="https://www.facebook.com/itimenofiabranch/"><img style="display:inline;width:40px;height:60px;margin:10px;padding-bottom:10px" src="~/Content/assets/images/ITI_logo1.png" />Munofia</a>
+        </div>
+        <a href="#menu" class="menu-link"><i class="fa fa-bars"></i></a>
+        <nav id="menu" class="main-nav" role="navigation">
+            <ul class="main-menu">
+                @*<li><a href="#section1">Home</a></li>*@
+                <li><a href="#section1">Home</a></li>
+                <li class="has-submenu">
+                    <a href="#section2">About Us</a>
+                    <ul class="sub-menu">
+                        <li><a href="#section2">Who we are?</a></li>
+                        <li><a style="font-size:10px" href="#section3">Student in Session</a></li>
+                        @*<li><a href="#section3">How it works?</a></li>*@
+                    </ul>
+                </li>
+                <li><a href="#section4">Courses</a></li>
+                <!-- <li><a href="#section5">Video</a></li> -->
+                <li><a href="#section6">Contact</a></li>
+
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li><a asp-controller="Test" asp-action="calcAbsent" class="external">Absent</a></li>
+
+                    @if (User.Claims.SingleOrDefault(o => o.Type == ClaimTypes.Role).Value == "1")
+                    {
+                        <li><a asp-controller="Test" asp-action="Logout" class="external">Logout</a></li>
+                        <li><a asp-controller="Test" asp-action="admin" class="external">Admin</a></li>
+                    }
+
+                }
+                else
+                {
+                    <li><a asp-controller="Test" asp-action="register" class="external">Register</a></li>
+                    <li><a asp-controller="Test" asp-action="Login" class="external">Login</a></li>
+                }
+
+            </ul>
+        </nav>
+    </header>
+
+    <!-- ***** Main Banner Area Start ***** -->
+    <section class="section main-banner" id="top" data-section="section1">
+        <video autoplay muted loop id="bg-video">
+            <source src="~/Content/assets/images/course-video.mp4" type="video/mp4" />
+        </video>
+
+        <div class="video-overlay header-text">
+            <div class="caption">
+                <h6>Education Online of Management</h6>
+                <h2><em>Your</em> Classroom</h2>
+                <div class="main-button">
+                    <div class="scroll-to-section"><a href="#section2">Discover more</a></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Main Banner Area End ***** -->
+
+
+    <section class="features">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-12">
+                    <div class="features-post">
+                        <div class="features-content">
+                            <div class="content-show">
+                                <h4><i class="fa fa-pencil"></i>All Courses</h4>
+                            </div>
+                            <div class="content-hide">
+                                <p>Curabitur id eros vehicula, tincidunt libero eu, lobortis mi. In mollis eros a posuere imperdiet. Donec maximus elementum ex. Cras convallis ex rhoncus, laoreet libero eu, vehicula libero.</p>
+                                <p class="hidden-sm">Curabitur id eros vehicula, tincidunt libero eu, lobortis mi. In mollis eros a posuere imperdiet.</p>
+                                <div class="scroll-to-section"><a href="#section2">More Info.</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-12">
+                    <div class="features-post second-features">
+                        <div class="features-content">
+                            <div class="content-show">
+                                <h4><i class="fa fa-graduation-cap"></i>Virtual Class</h4>
+                            </div>
+                            <div class="content-hide">
+                                <p>Curabitur id eros vehicula, tincidunt libero eu, lobortis mi. In mollis eros a posuere imperdiet. Donec maximus elementum ex. Cras convallis ex rhoncus, laoreet libero eu, vehicula libero.</p>
+                                <p class="hidden-sm">Curabitur id eros vehicula, tincidunt libero eu, lobortis mi. In mollis eros a posuere imperdiet.</p>
+                                <div class="scroll-to-section"><a href="#section3">Details</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-12">
+                    <div class="features-post third-features">
+                        <div class="features-content">
+                            <div class="content-show">
+                                <h4><i class="fa fa-book"></i>Real Meeting</h4>
+                            </div>
+                            <div class="content-hide">
+                                <p>Curabitur id eros vehicula, tincidunt libero eu, lobortis mi. In mollis eros a posuere imperdiet. Donec maximus elementum ex. Cras convallis ex rhoncus, laoreet libero eu, vehicula libero.</p>
+                                <p class="hidden-sm">Curabitur id eros vehicula, tincidunt libero eu, lobortis mi. In mollis eros a posuere imperdiet.</p>
+                                <div class="scroll-to-section"><a href="#section4">Read More</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section why-us" data-section="section2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-heading">
+                        <h2>Why choose Grad School?</h2>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div id='tabs'>
+                        <ul>
+                            <li><a href='#tabs-1'>Best Education</a></li>
+                            <li><a href='#tabs-2'>Top Management</a></li>
+                            <li><a href='#tabs-3'>Quality Meeting</a></li>
+                        </ul>
+                        <section class='tabs-content'>
+                            <article id='tabs-1'>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <img src="~/Content/assets/images/choose-us-image-01.png" alt="">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4>Best Education</h4>
+                                        <p>Grad School is free educational HTML template with Bootstrap 4.5.2 CSS layout. Feel free to use it for educational or commercial purposes. You may want to make <a href="https://paypal.me/templatemo" target="_parent" rel="sponsored">a little donation</a> to TemplateMo. Please tell your friends about us. Thank you.</p>
+                                    </div>
+                                </div>
+                            </article>
+                            <article id='tabs-2'>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <img src="~/Content/assets/images/choose-us-image-02.png" alt="">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4>Top Level</h4>
+                                        <p>You can modify this HTML layout by editing contents and adding more pages as you needed. Since this template has options to add dropdown menus, you can put many HTML pages.</p>
+                                        <p>Suspendisse tincidunt, magna ut finibus rutrum, libero dolor euismod odio, nec interdum quam felis non ante.</p>
+                                    </div>
+                                </div>
+                            </article>
+                            <article id='tabs-3'>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <img src="~/Content/assets/images/choose-us-image-03.png" alt="">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4>Quality Meeting</h4>
+                                        <p>You are NOT allowed to redistribute this template ZIP file on any template collection website. However, you can use this template to convert into a specific theme for any kind of CMS platform such as WordPress. For more information, you shall <a rel="nofollow" href="https://templatemo.com/contact" target="_parent">contact TemplateMo</a> now.</p>
+                                    </div>
+                                </div>
+                            </article>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section coming-soon" data-section="section3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7 col-xs-12">
+                    @RenderBody()
+                </div>
+                <div class="col-md-5">
+                    <div class="right-content">
+                        
+                            <h6 style="margin-top:15px;font-size:60px;font-weight:bold;text-align:left;color:white">STUDENT<span style="display:block; margin:20px;font-style:italic;font-size:80px">IN</span><span style="display: block; margin: 20px">SESSION</span></h6>
+                        </div>
+                        <!--<form id="contact" action="" method="get">
+                            <div class="row">-->
+                                @*<div class="col-md-12">
+                                        <fieldset>
+                                            <input name="name" type="text" class="form-control" id="name" placeholder="Your Name" required="">
+                                        </fieldset>
+                                    </div>*@
+                                <!--<div class="col-md-12">
+                                    <fieldset>
+                                        <input name="email" type="text" class="form-control" id="email" placeholder="Your Email" required="">
+                                    </fieldset>
+                                </div>-->
+                                @*<div class="col-md-12">
+                                        <fieldset>
+                                            <input name="phone-number" type="text" class="form-control" id="phone-number" placeholder="Your Phone Number" required="">
+                                        </fieldset>
+                                    </div>*@
+
+                                <!--<div class="col-md-12">
+                                    <fieldset>
+                                        <input name="password" type="text" class="form-control" id="password" placeholder="Your password" required="">
+                                    </fieldset>
+                                </div>
+                                <div class="col-md-12">
+                                    <fieldset>
+                                        <button type="submit" id="form-submit" class="button">Get it now</button>
+                                    </fieldset>
+                                </div>
+                            </div>
+                        </form>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section courses" data-section="section4">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-heading">
+                        <h2>Choose Your Track</h2>
+                    </div>
+                </div>
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <img src="~/Content/assets/images/c1.jpg" alt="Course #1">
+                        <div class="down-content" style="height:230px">
+                            <h4>Full Stack .Net Developer</h4>
+                            <p>Become a:.Net Full Stack Deverloper</p>
+                            @*<div class="author-image">
+                                    <img src="~/Content/assets/images/author-01.png" alt="Author 1">
+                                </div>*@
+                            <div class="text-button-pay">
+                                <a href="https://www.facebook.com/ITP.ITI/photos/pcb.3025799024320377/3026157787617834">more info <i class="fa fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="~/Content/assets/images/c2.jpg" alt="Course #2">
+                        <div class="down-content" style="height:230px">
+                            <h4>3D Modeling</h4>
+                            <p>Become a: 3D Envionment Artist/lock development Artist.</p>
+                            @*<div class="author-image">
+                                    <img src="~/Content/assets/images/author-02.png" alt="Author 2">
+                                </div>*@
+                            <div class="text-button-pay">
+                                <a href="https://www.facebook.com/ITP.ITI/photos/pcb.3025799024320377/3025798827653730">more info<i class="fa fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="~/Content/assets/images/c3.jpg" alt="Course #3">
+                        <div class="down-content" style="height:230px">
+                            <h4>Full Stack Developer using PYTHON</h4>
+                            <p>Become a:Backend Developer .</p>
+                            @*<div class="author-image">
+                                    <img src="~/Content/assets/images/author-03.png" alt="Author 3">
+                                </div>*@
+                            <div class="text-button-pay">
+                                <a href="https://www.facebook.com/ITP.ITI/photos/pcb.3025799024320377/3025798874320392">more info<i class="fa fa-angle-double-right"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="~/Content/assets/images/c4.jpg" alt="Course #4">
+                        <div class="down-content" style="height:230px">
+                            <h4>IOT Application Developer </h4>
+                            <p>Become a:IOT Application Developer/Front-End Developer.</p>
+                            @*<div class="author-image">
+                                    <img src="~/Content/assets/images/author-04.png" alt="Author 4">
+                                </div>*@
+                            <div class="text-button-pay">
+                                <a href="https://www.facebook.com/ITP.ITI/photos/pcb.3025799024320377/3025798910987055">more info<i class="fa fa-angle-double-right"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="~/Content/assets/images/c5.jpg" alt="">
+                        <div class="down-content" style="height:230px">
+                            <h4>Social Media Marketing</h4>
+                            <p>Become a:Professional Social Media Specialit.</p>
+                            @*<div class="author-image">
+                                    <img src="~/Content/assets/images/author-05.png" alt="">
+                                </div>*@
+                            <div class="text-button-pay">
+                                <a href="https://www.facebook.com/ITP.ITI/photos/pcb.3025799024320377/3025798930987053">more info<i class="fa fa-angle-double-right"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="~/Content/assets/images/c6.jpg" alt="">
+                        <div class="down-content" style="height:230px">
+                            <h4>2D Graphics</h4>
+                            <p>Become a:2D Graphics Designer/Video Editor .</p>
+                            @*<div class="author-image">
+                                    <img src="~/Content/assets/images/author-01.png" alt="">
+                                </div>*@
+                            <div class="text-button-pay">
+                                <a href="https://www.facebook.com/ITP.ITI/photos/pcb.3025803314319948/3025803197653293/">more info<i class="fa fa-angle-double-right"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="~/Content/assets/images/c7.jpg" alt="">
+                        <div class="down-content" style="height:230px">
+                            <h4>Advanced IT Essential</h4>
+                            <p>Become a: IT Specialist/ Network Specialist .</p>
+                            @*<div class="author-image">
+                                    <img src="~/Content/assets/images/author-02.png" alt="">
+                                </div>*@
+                            <div class="text-button-pay">
+                                <a href="https://www.facebook.com/ITP.ITI/photos/pcb.3025803314319948/3025803234319956/">more info<i class="fa fa-angle-double-right"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item" style="height:230px">
+                        <img src="~/Content/assets/images/c8.jpg" alt="">
+                        <div class="down-content" style="height:230px">
+                            <h4>Renewable(Solar) Energy</h4>
+                            <p>Technician / Desiger.</p>
+                            @*<div class="author-image">
+                                    <img src="~/Content/assets/images/author-03.png" alt="">
+                                </div>*@
+                            <div class="text-button-pay">
+                                <a href="https://www.facebook.com/ITP.ITI/photos/pcb.3025803314319948/3025803260986620/">more info<i class="fa fa-angle-double-right"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                    @*<div class="item">
+                            <img src="~/Content/assets/images/courses-04.jpg" alt="">
+                            <div class="down-content">
+                                <h4>Social Media</h4>
+                                <p>Pellentesque ultricies diam magna, auctor cursus lectus pretium nec. Maecenas finibus lobortis enim.</p>
+                                <div class="author-image">
+                                    <img src="~/Content/assets/images/author-04.png" alt="">
+                                </div>
+                                <div class="text-button-pay">
+                                    <a href="#">Pay <i class="fa fa-angle-double-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="~/Content/assets/images/courses-05.jpg" alt="">
+                            <div class="down-content">
+                                <h4>Digital Arts</h4>
+                                <p>Quisque cursus augue ut velit dictum, quis volutpat enim blandit. Maecenas a lectus ac ipsum porta.</p>
+                                <div class="author-image">
+                                    <img src="~/Content/assets/images/author-05.png" alt="">
+                                </div>
+                                <div class="text-button-free">
+                                    <a href="#">Free <i class="fa fa-angle-double-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="~/Content/assets/images/courses-01.jpg" alt="">
+                            <div class="down-content">
+                                <h4>Media Streaming</h4>
+                                <p>Pellentesque ultricies diam magna, auctor cursus lectus pretium nec. Maecenas finibus lobortis enim.</p>
+                                <div class="author-image">
+                                    <img src="~/Content/assets/images/author-01.png" alt="">
+                                </div>
+                                <div class="text-button-pay">
+                                    <a href="#">Pay <i class="fa fa-angle-double-right"></i></a>
+                                </div>
+                            </div>
+                        </div>*@
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="section video" data-section="section5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 align-self-center">
+                    <div class="left-content">
+                        <span>our presentation is for you</span>
+                        <h4>Watch the video to learn more <em>ITI Monufia Branch</em></h4>
+                        <p>
+                            Founded over two decades ago, the Information Technology Institute (ITI) provides world-class professional human capacity building programs, hands-on training and an exposure to the latest technology trends for university students and graduates, academia and professionals, in collaboration with a wide network of partners from the ICT industry, the academia, and the community <a rel="nofollow" href="https://www.facebook.com/itimenofiabranch/" target="_parent">iti Menofia facebook </a>.
+
+                        </p>
+                        <div class="main-button"><a rel="nofollow" href="https://www.iti.gov.eg/iti/home" target="_parent">ITI Home page</a></div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <article class="myArticle video-item">
+                        <div class="video-caption">
+                            <h4>ITI - Information Technology Institute (Menofia)</h4>
+                        </div>
+                        <figure>
+                            <a href="https://www.youtube.com/watch?v=cD6ofm2gULo" class="play"><img src="~/Content/assets/images/mbf.png"></a>
+                        </figure>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section contact" data-section="section6">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-heading">
+                        <h2>Let’s Keep In Touch</h2>
+                    </div>
+                </div>
+                <div class="col-md-6">
+
+                    <!-- Do you need a working HTML contact-form script?
+
+                                Please visit https://templatemo.com/contact page -->
+
+                    <form id="contact" action="" method="post">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <fieldset>
+                                    <input name="name" type="text" class="form-control" id="name" placeholder="Your Name" required="">
+                                </fieldset>
+                            </div>
+                            <div class="col-md-6">
+                                <fieldset>
+                                    <input name="email" type="text" class="form-control" id="email" placeholder="Your Email" required="">
+                                </fieldset>
+                            </div>
+                            <div class="col-md-12">
+                                <fieldset>
+                                    <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your message..." required=""></textarea>
+                                </fieldset>
+                            </div>
+                            <div class="col-md-12">
+                                <fieldset>
+                                    <button type="submit" id="form-submit" class="button">Send Message Now</button>
+                                </fieldset>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-md-6">
+                    <div id="map">
+                        <iframe src="https://maps.google.com/maps?q=Av.+L%C3%BAcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="422px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p>
+                        <i class="fa fa-copyright"></i> ITI
+
+                        @*| Design: <a href="https://templatemo.com" rel="sponsored" target="_parent">TemplateMo</a>*@
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <!-- Bootstrap core JavaScript -->
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation/dist/additional-methods.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Content/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/Content/vendor/jquery/jquery.min.js"></script>
+    <script src="~/Content/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <script src="~/Content/assets/js/isotope.min.js"></script>
+    <script src="~/Content/assets/js/owl-carousel.js"></script>
+    <script src="~/Content/assets/js/lightbox.js"></script>
+    <script src="~/Content/assets/js/tabs.js"></script>
+    <script src="~/Content/assets/js/video.js"></script>
+    <script src="~/Content/assets/js/slick-slider.js"></script>
+    <script src="~/Content/assets/js/custom.js"></script>
+    <script>
+        //according to loftblog tut
+        $('.nav li:first').addClass('active');
+
+        var showSection = function showSection(section, isAnimate) {
+            var
+                direction = section.replace(/#/, ''),
+                reqSection = $('.section').filter('[data-section="' + direction + '"]'),
+                reqSectionPos = reqSection.offset().top - 0;
+
+            if (isAnimate) {
+                $('body, html').animate({
+                    scrollTop: reqSectionPos
+                },
+                    800);
+            } else {
+                $('body, html').scrollTop(reqSectionPos);
+            }
+
+        };
+
+        var checkSection = function checkSection() {
+            $('.section').each(function () {
+                var
+                    $this = $(this),
+                    topEdge = $this.offset().top - 80,
+                    bottomEdge = topEdge + $this.height(),
+                    wScroll = $(window).scrollTop();
+                if (topEdge < wScroll && bottomEdge > wScroll) {
+                    var
+                        currentId = $this.data('section'),
+                        reqLink = $('a').filter('[href*=\\#' + currentId + ']');
+                    reqLink.closest('li').addClass('active').
+                        siblings().removeClass('active');
+                }
+            });
+        };
+
+        $('.main-menu, .scroll-to-section').on('click', 'a', function (e) {
+            if ($(e.target).hasClass('external')) {
+                return;
+            }
+            e.preventDefault();
+            $('#menu').removeClass('active');
+            showSection($(this).attr('href'), true);
+        });
+
+        $(window).scroll(function () {
+            checkSection();
+        });
+    </script>
+</body>
+</html>

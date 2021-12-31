@@ -1,0 +1,90 @@
+﻿
+@{
+    ViewData["Title"] = "Absence";
+    Layout = "~/Views/Shared/_layout_3.cshtml";
+}
+<style>
+    body {
+        /*        background-color:red;
+*/
+    }
+    img{
+        position:relative;
+        top:0;
+        left:0;
+        width:100%;
+        height:1000px;
+        object-fit:cover;
+    }
+    .myHafez{
+        position:absolute;
+        top:25%;
+        left:30%;
+    }
+    .myHafez h1 {
+        text-align:center;
+        font-size:60px;
+        font-weight:bold;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+        color:white;
+    }
+
+
+    .myHafez input{
+        background-color:white;
+    }
+    
+    @@media screen and (max-width:600px) {
+        .myHafez {
+            position: absolute;
+            top: 20%;
+            left: 15%;
+        }
+        .myHafez h1 {
+            font-size: 25px;
+            font-weight: bold;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+            color: white;
+        }
+    }
+</style>
+
+<img src="~/Content/assets/images/choosing-bg.jpg" />
+
+
+<div class="mt-5 myHafez text-center" >
+    <h1>Calculate Absence</h1>
+    <form method="post" enctype="multipart/form-data" asp-controller="Test" asp-action="calcAbsent">
+        <input class="input-group" type="file" name="file" />
+        <hr />
+        <button type="submit">Upload</button>
+
+    </form>
+    @if (ViewBag.count > 0)
+    {
+        <table class="table m-3" style="color:white;" cellpadding="0" cellspacing="0" border="1">
+
+            <tr>
+                <th>UserId</th>
+                <th>JionTime</th>
+                <th>LeaveTime</th>
+                <th>Duration</th>
+                <th>ReportId</th>
+
+            </tr>
+            @foreach (var item in (List<UserReport>)ViewBag.userReports)
+            {
+                <tr>
+
+                    <td>@item.UserId</td>
+                    <td>@item.JionTimeOfUser</td>
+                    <td>@item.LeaveTimeOfUser</td>
+                    <td>@item.Duration</td>
+                    <td>@item.ReportId</td>
+                </tr>
+            }
+
+
+        </table>
+    }
+</div>

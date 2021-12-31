@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\FIFA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\FIFA\\.nuget\\packages"
+    ]
+  }
+}

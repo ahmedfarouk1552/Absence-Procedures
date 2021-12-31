@@ -1,0 +1,1464 @@
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.json
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.exe
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.deps.json
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.json
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.dev.json
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ref\TrainProject.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.pdb
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.pdb
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.AssemblyReference.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfoInputs.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfo.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CoreCompileInputs.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.input.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\Views\Shared\_layout.razor.g.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.output.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\TrainProject.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.input.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.output.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorCoreGenerate.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout.razor.g.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.Manifest.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.xml
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\scopedcss\bundle\TrainProject.styles.css
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.Views.pdb
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\ref\TrainProject.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.pdb
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.genruntimeconfig.cache
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CopyComplete
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\WG\Desktop\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_2.cshtml.g.cs
+C:\Users\WG\Desktop\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.json
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.exe
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.deps.json
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.json
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.dev.json
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ref\TrainProject.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.pdb
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.pdb
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.AssemblyReference.cache
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfoInputs.cache
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfo.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CoreCompileInputs.cache
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.input.cache
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\Views\Shared\_layout.razor.g.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.output.cache
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\TrainProject.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.input.cache
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.output.cache
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorCoreGenerate.cache
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout.razor.g.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_2.cshtml.g.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cache
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.Manifest.cache
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.xml
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\scopedcss\bundle\TrainProject.styles.css
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cache
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cs
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.Views.pdb
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CopyComplete
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\ref\TrainProject.dll
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.pdb
+C:\Users\ahmed hafez\Downloads\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.genruntimeconfig.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.Development.json
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.json
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.exe
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.deps.json
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.json
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.dev.json
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ref\TrainProject.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.pdb
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.pdb
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Humanizer.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.AssemblyReference.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfoInputs.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfo.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CoreCompileInputs.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.MvcApplicationPartsAssemblyInfo.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.input.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\Views\Shared\_layout.razor.g.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.output.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\TrainProject.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.input.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.output.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorCoreGenerate.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout.razor.g.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_2.cshtml.g.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.Manifest.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.xml
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\scopedcss\bundle\TrainProject.styles.css
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cache
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cs
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.Views.pdb
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CopyComplete
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\ref\TrainProject.dll
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.pdb
+G:\ITI\opp al sfy\project data\TrainProject-20210730T071826Z-001\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.genruntimeconfig.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.json
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.exe
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.deps.json
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.json
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.dev.json
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ref\TrainProject.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.pdb
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.pdb
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.AssemblyReference.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfoInputs.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfo.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CoreCompileInputs.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.input.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\Views\Shared\_layout.razor.g.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.output.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\TrainProject.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.input.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.output.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorCoreGenerate.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout.razor.g.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_2.cshtml.g.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.Manifest.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.xml
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\scopedcss\bundle\TrainProject.styles.css
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.Views.pdb
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CopyComplete
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\ref\TrainProject.dll
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.pdb
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.genruntimeconfig.cache
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_3.cshtml.g.cs
+C:\Users\WG\Desktop\Project\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\register.cshtml.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.json
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.exe
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.deps.json
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.json
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.dev.json
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ref\TrainProject.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.pdb
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.pdb
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.AssemblyReference.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfoInputs.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfo.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CoreCompileInputs.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.input.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\Views\Shared\_layout.razor.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.output.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\TrainProject.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.input.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.output.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorCoreGenerate.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout.razor.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_2.cshtml.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_3.cshtml.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\register.cshtml.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.Manifest.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.xml
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\scopedcss\bundle\TrainProject.styles.css
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cs
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.Views.pdb
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CopyComplete
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\ref\TrainProject.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.pdb
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.genruntimeconfig.cache
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WG\Desktop\Project with Db\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.Development.json
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.json
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.exe
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.deps.json
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.json
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.dev.json
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ref\TrainProject.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.pdb
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.pdb
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Humanizer.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.AssemblyReference.cache
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfoInputs.cache
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfo.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CoreCompileInputs.cache
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.MvcApplicationPartsAssemblyInfo.cache
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.input.cache
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\Views\Shared\_layout.razor.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.output.cache
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\TrainProject.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.input.cache
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.output.cache
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorCoreGenerate.cache
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout.razor.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_2.cshtml.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_3.cshtml.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\register.cshtml.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cache
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.Manifest.cache
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.xml
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\scopedcss\bundle\TrainProject.styles.css
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cache
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cs
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.Views.pdb
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CopyComplete
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\ref\TrainProject.dll
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.pdb
+G:\ITI\opp al sfy\project data\v2 7 31\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.genruntimeconfig.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csprojAssemblyReference.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfoInputs.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfo.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CoreCompileInputs.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.input.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\Views\Shared\_layout.razor.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.output.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\TrainProject.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.input.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.output.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorCoreGenerate.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout.razor.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_2.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_3.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Login.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\register.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.Manifest.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.xml
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\scopedcss\bundle\TrainProject.styles.css
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\ref\TrainProject.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.pdb
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.json
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.exe
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.deps.json
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.json
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.dev.json
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ref\TrainProject.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.pdb
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.pdb
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.Views.pdb
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CopyComplete
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.genruntimeconfig.cache
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\adminController\Index.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\admin.cshtml.g.cs
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\bin\Debug\net5.0\ExcelDataReader.dll
+C:\Users\Hesham\Downloads\Compressed\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\calcAbsent.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.Development.json
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.json
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.exe
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.deps.json
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.json
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.dev.json
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ref\TrainProject.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.pdb
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.pdb
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Castle.Core.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ExcelDataReader.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Humanizer.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfoInputs.cache
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfo.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CoreCompileInputs.cache
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.MvcApplicationPartsAssemblyInfo.cache
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.input.cache
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\Views\Shared\_layout.razor.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.output.cache
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\TrainProject.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.input.cache
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.output.cache
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorCoreGenerate.cache
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout.razor.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\adminController\Index.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_2.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_3.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\admin.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\calcAbsent.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Login.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\register.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cache
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.Manifest.cache
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.xml
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\scopedcss\bundle\TrainProject.styles.css
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cache
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cs
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.Views.pdb
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CopyComplete
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\ref\TrainProject.dll
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.pdb
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.genruntimeconfig.cache
+G:\ITI\opp al sfy\project data\8 4 2021\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.AssemblyReference.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.json
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.exe
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.deps.json
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.json
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.dev.json
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ref\TrainProject.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.pdb
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.pdb
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ExcelDataReader.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.AssemblyReference.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfoInputs.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfo.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CoreCompileInputs.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.input.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\Views\Shared\_layout.razor.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.output.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\TrainProject.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.input.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.output.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorCoreGenerate.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout.razor.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\adminController\Index.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_2.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_3.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\admin.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\calcAbsent.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Login.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\register.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.Manifest.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.xml
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\scopedcss\bundle\TrainProject.styles.css
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cache
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cs
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.Views.pdb
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CopyComplete
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\ref\TrainProject.dll
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.pdb
+C:\Users\WG\Desktop\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.genruntimeconfig.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.Development.json
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\appsettings.json
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.StaticWebAssets.xml
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.exe
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.deps.json
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.json
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.runtimeconfig.dev.json
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ref\TrainProject.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.pdb
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\TrainProject.Views.pdb
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Castle.Core.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ExcelDataReader.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Humanizer.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.AssemblyReference.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfoInputs.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.AssemblyInfo.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CoreCompileInputs.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.MvcApplicationPartsAssemblyInfo.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.input.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\Views\Shared\_layout.razor.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorComponent.output.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\RazorDeclaration\TrainProject.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.input.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.TagHelpers.output.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorCoreGenerate.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout.razor.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\adminController\Index.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_2.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_layout_3.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\admin.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\calcAbsent.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\Login.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\Test\register.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorAssemblyInfo.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\scopedcss\bundle\TrainProject.styles.css
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\staticwebassets\TrainProject.StaticWebAssets.Manifest.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cache
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.RazorTargetAssemblyInfo.cs
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.Views.pdb
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.csproj.CopyComplete
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\ref\TrainProject.dll
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.pdb
+F:\Final Project\Last Edition\TrainProject\TrainProject\obj\Debug\net5.0\TrainProject.genruntimeconfig.cache
